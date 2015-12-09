@@ -32,3 +32,5 @@ inner test
 inner test
 inner test
 
+inner test2
+inner test2
