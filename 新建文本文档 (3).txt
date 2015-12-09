@@ -27,3 +27,8 @@ branch2 outer
 branch2 outer
 branch2 outer
 
+
+inner test
+inner test
+inner test
+
