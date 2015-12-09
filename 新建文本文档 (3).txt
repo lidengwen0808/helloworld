@@ -27,7 +27,7 @@ branch2 outer
 branch2 outer
 branch2 outer
 
-<<<<<<< HEAD
+
 
 inner test
 inner test
