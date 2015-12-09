@@ -27,6 +27,7 @@ branch2 outer
 branch2 outer
 branch2 outer
 
+<<<<<<< HEAD
 
 inner test
 inner test
@@ -34,3 +35,10 @@ inner test
 
 inner test2
 inner test2
+
+branch3 test
+branch3 test
+
+branch3 test2
+branch3 test2
+
